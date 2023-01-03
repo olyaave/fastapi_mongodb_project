@@ -1,0 +1,4 @@
+fastapi==0.88.0
+uvicorn==0.20.0
+motor==3.1.1
+python-decouple
